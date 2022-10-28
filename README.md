@@ -1,5 +1,5 @@
 # estuary-testkit
-Quick 'n dirty Python scripts to benchmark and test Estuary.tech
+Quick 'n simple Python scripts to benchmark and test Estuary.tech
 
 Planned tests:
 
